@@ -1,0 +1,5 @@
+<!--start.wxml-->
+<view class="intro">
+</view>
+
+<button class="btn1" bindtap="navigate">查看空气质量</button>
